@@ -1,6 +1,6 @@
 
 export function getResponseFromAPI(){
-	return new Promise.resolve("success");
+	return new Promise(()=>{})
 }
 
 
